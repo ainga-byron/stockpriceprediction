@@ -1,0 +1,7 @@
+{
+  "model_type": "simple-classifier",
+  "input_size": 10,
+  "hidden": 32,
+  "num_classes": 2,
+  "framework": "pytorch"
+}
